@@ -1,0 +1,18 @@
+{
+  "name": "calculator-lg-project",
+  "version": "1.0.0",
+  "description": "MacOS calculator clone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicosesma/calculator-lgProject.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Sesma",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^3.16.1"
+  }
+}
